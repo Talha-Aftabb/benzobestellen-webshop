@@ -2,9 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Ant Design reset */
-@import 'antd/dist/reset.css';
-
 /* basic page layout */
 html, body, #__next {
   height: 100%;
